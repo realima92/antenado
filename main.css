@@ -1,0 +1,202 @@
+html{
+	font-size:100%;
+}
+body{
+	color:white;
+	background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, yellow); /* Standard syntax */
+	margin: 0px;
+}
+.coverimage{
+	background-image:url('./assets/topcover-alimentandofuturo-1440x550.png');
+	background-size: cover;
+	display: block;
+    width: 100%;
+    height: 220px;
+}
+.nav-relative-menu{
+	position:relative;
+	top:-100px;
+	margin-bottom:-100px;
+	width: 100%;
+	display:inline-flex;
+}
+#logo{
+	width:200px;
+}
+nav{
+	font-size:18px;
+	font-family:"Carter One", Gadget, sans-serif;
+	color:white;
+	text-transform:capitalize;
+}
+nav ul{
+	list-style-type:none;
+}
+nav a{
+	color:white;
+	text-decoration:none;
+	display:block;
+}
+nav li{
+	display:inline;
+	float:left;
+	margin: 0px 10px;
+}
+.mobile-menu{
+	position: relative;
+    top: 92px;
+    width: 80px;
+    background-color: rgb(62,64,149);
+    height: 42px;
+    border: 2px;
+    border-color: white;
+    border-bottom-style: solid;
+    border-top-style: solid;
+}
+.standard-menu{
+	position: relative;
+    top: 63px;
+    background-color: rgb(62,64,149);
+    display: inline;
+    height: 63px;
+    width: inherit;
+    border: 2px;
+    border-color: white;
+    border-bottom-style: solid;
+    border-top-style: solid;
+}
+h1{
+	margin:0px;
+	font-size:60px;
+	font-family:Impact, Charcoal, sans-serif;
+	background-color:rgb(62,64,149);
+	color:rgb(255,242,18);
+	text-align:center;
+	text-align:center;
+	text-transform:uppercase;
+}
+h2{
+	font-size:30px;
+	font-family:"Carter One", Gadget, sans-serif;
+	background-color:rgb(62,64,149);
+	text-align:center;
+	text-transform:capitalize;
+}
+p{
+	font-size:14px;
+	text-align:justify;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+main{
+	background-color:white;
+	color:rgb(62,64,149);
+    display: inline-block;
+	width:100%;
+}
+main h2{
+	background-color:white;
+	text-transform:none;
+}
+main h4{
+	font-size:18px;
+	font-family:"Carter One", Gadget, sans-serif;
+	color:rgb(62,64,149);
+	line-height: 0;
+	text-align:center;
+}
+main p{
+	font-size:14px;
+	text-align:center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	padding:0px 40px 0px 40px;
+}
+main table{
+	width:100%;
+	padding:0px 40px 20px 40px;
+}
+main td{
+	width: 33.3%;
+	vertical-align:top;
+	text-align:center;
+}
+main td img{
+	width:120px;
+	height:120px;
+}
+section{
+	background-color: rgb(62,64,149);
+    padding: 20px 40px;
+    border: 10px;
+    border-color: white;
+    border-bottom-style: solid;
+    border-top-style: solid;
+}
+section td{
+	width: 50%;
+	text-align:center;
+	margin-top: 40px;
+}
+section td img{
+	width:70%;
+}
+
+section tr a {
+	display:inline-block;
+	margin: 5px;
+	font-family:Impact, sans-serif;
+	font-size: 24px;
+	padding: 5px;
+	border: 5px solid #fff212;
+	background-color:#ed3237;
+	color:#fff212;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+
+.list-wrap{
+	text-decoration:none;
+	text-align:center;
+	width:50%;
+    margin-left: 50px;
+    border: 3px #fff;
+    border-style: dashed;
+    background-color:#191919;
+}
+.list-wrap ul{
+	list-style-type:none;
+	font-family:sans-serif;
+    padding-left: 0px;
+}
+.list-wrap ul li{
+	padding-top:5px;
+	padding-bottom:5px;
+    font-size: 28px;
+	display:block;
+}
+footer{
+	background-color:#191919;
+	color:white;
+	text-align:center;
+	margin-top: 20px;
+	padding:10px 40px 10px 40px;
+}
+.icones-sociais a{
+	display:inline-block;
+	width:64px;
+	height:64px;
+	text-indent:-9999px;
+}
+.instagram{
+	background-image: url(./assets/insta.svg);
+}
+.facebook{
+	background-image: url(./assets/face.svg);
+}
+.email{
+	background-image: url(./assets/mail.svg);
+}
+

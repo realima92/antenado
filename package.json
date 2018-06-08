@@ -1,0 +1,26 @@
+{
+  "name": "antenado",
+  "version": "1.0.0",
+  "description": "Site simples com detalhes e servicos da cantina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Renato Lima <renato.lima92@gmail.com>",
+  "license": "(GPL-3.0)",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realima92/antenado.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/realima92/antenado/issues"
+  },
+  "homepage": "https://github.com/realima92/antenado#readme"
+}
