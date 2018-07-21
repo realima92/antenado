@@ -69,6 +69,10 @@ nav li{
     border-bottom-style: solid;
     border-top-style: solid;
 }
+#pull-right{
+	float:inline-end;
+	text-transform: uppercase;
+}
 h1{
 	margin:0px;
 	font-size:60px;
