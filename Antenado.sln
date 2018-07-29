@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaAntenado", "SistemaAntenado\SistemaAntenado.csproj", "{52395063-2C64-4389-AA4C-445F768AD982}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{6823DCCF-8BD0-49E0-93E6-A1A5845F98F2}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StaticSite", "StaticSite\", "{CFE821D8-9327-420B-83AE-017989F91F14}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53824"
+		Debug.AspNetCompiler.PhysicalPath = "StaticSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53824\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53824"
+		Release.AspNetCompiler.PhysicalPath = "StaticSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53824\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53824"
+		SlnRelativePath = "StaticSite\"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design", "Design", "{862C2A00-BFDE-45E2-A305-DEA2BE15D8FA}"
+	ProjectSection(SolutionItems) = preProject
+		design\SystemMain.pdn = design\SystemMain.pdn
+		design\Web.pdn = design\Web.pdn
+		design\Web2.pdn = design\Web2.pdn
+		design\Web2_About.pdn = design\Web2_About.pdn
+		design\Web2_Cardápio.pdn = design\Web2_Cardápio.pdn
+		design\Web2_Cartão.pdn = design\Web2_Cartão.pdn
+		design\Web2_Integral.pdn = design\Web2_Integral.pdn
+		design\Web_Integral.pdn = design\Web_Integral.pdn
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{6018F9AC-DD36-4C1B-89C0-84FEA02326F0}"
+	ProjectSection(SolutionItems) = preProject
+		assets\37649843_1333239120144531_2138227516735750144_n.jpg = assets\37649843_1333239120144531_2138227516735750144_n.jpg
+		assets\antenadocard-2279x1800.png = assets\antenadocard-2279x1800.png
+		assets\antenadosys-1000x460.png = assets\antenadosys-1000x460.png
+		assets\antenadowborderlogo-960x732.png = assets\antenadowborderlogo-960x732.png
+		assets\antenadowbordername-960x732.png = assets\antenadowbordername-960x732.png
+		assets\face.svg = assets\face.svg
+		assets\insta.svg = assets\insta.svg
+		assets\label-achieve-231x.png = assets\label-achieve-231x.png
+		assets\label-heart-231x.png = assets\label-heart-231x.png
+		assets\label-mission-231x.png = assets\label-mission-231x.png
+		assets\mail.svg = assets\mail.svg
+		assets\topcover-alimentandofuturo-1440x550.png = assets\topcover-alimentandofuturo-1440x550.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52395063-2C64-4389-AA4C-445F768AD982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52395063-2C64-4389-AA4C-445F768AD982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52395063-2C64-4389-AA4C-445F768AD982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52395063-2C64-4389-AA4C-445F768AD982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6823DCCF-8BD0-49E0-93E6-A1A5845F98F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6823DCCF-8BD0-49E0-93E6-A1A5845F98F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6823DCCF-8BD0-49E0-93E6-A1A5845F98F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6823DCCF-8BD0-49E0-93E6-A1A5845F98F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE821D8-9327-420B-83AE-017989F91F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE821D8-9327-420B-83AE-017989F91F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE821D8-9327-420B-83AE-017989F91F14}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE821D8-9327-420B-83AE-017989F91F14}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {754EA43A-1C6B-40E5-BE87-9F5BACA435C2}
+	EndGlobalSection
+EndGlobal

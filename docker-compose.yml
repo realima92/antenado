@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  sistemaantenado:
+    image: sistemaantenado
+    build:
+      context: .
+      dockerfile: SistemaAntenado/Dockerfile

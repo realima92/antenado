@@ -1,0 +1,12 @@
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\bin\Debug\netcoreapp2.0\SistemaAntenado.deps.json
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\bin\Debug\netcoreapp2.0\SistemaAntenado.runtimeconfig.json
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\bin\Debug\netcoreapp2.0\SistemaAntenado.runtimeconfig.dev.json
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\bin\Debug\netcoreapp2.0\SistemaAntenado.dll
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\bin\Debug\netcoreapp2.0\SistemaAntenado.pdb
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\obj\Debug\netcoreapp2.0\SistemaAntenado.csprojResolveAssemblyReference.cache
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\obj\Debug\netcoreapp2.0\SistemaAntenado.csproj.CoreCompileInputs.cache
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\obj\Debug\netcoreapp2.0\SistemaAntenado.AssemblyInfoInputs.cache
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\obj\Debug\netcoreapp2.0\SistemaAntenado.AssemblyInfo.cs
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\obj\Debug\netcoreapp2.0\SistemaAntenado.dll
+C:\Users\RenatoLima\Documents\ServerProjects\antenado\SistemaAntenado\obj\Debug\netcoreapp2.0\SistemaAntenado.pdb
